@@ -1,0 +1,27 @@
+.navbar {
+  background-color: orange;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+}
+
+.navbar a {
+  margin: 10px;
+}
+
+.home h1,
+.home h2,
+.home input {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
